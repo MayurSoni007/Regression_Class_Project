@@ -1,5 +1,6 @@
-pandas
 numpy
+pandas
 Flask
--e .    # Links requirements.txt to setup.py
-
+scikit-learn
+seaborn
+-e .
